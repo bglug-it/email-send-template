@@ -1,0 +1,3 @@
+smtp_host = 'smtp.example.org'
+smtp_user = 'example'
+smtp_passwd = 'xxxxx'
