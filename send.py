@@ -30,7 +30,7 @@ Il tuo link personale per scaricare gli e-books da humblebundle è: {codice}
 
 Alla prossima!
 
---
+-- 
 Staff BgLUG
 Bergamo Linux Users Group <http://bglug.it/>
 """
@@ -52,7 +52,7 @@ html = """<p>Caro {nome},<br></p>
 
 <p><br>Alla prossima!<br></p>
 
-<p>--<br>
+<p>-- <br>
 Staff BgLUG<br>
 Bergamo Linux Users Group (<a href="https://bglug.it">https://bglug.it</a>)<br></p>
 """
